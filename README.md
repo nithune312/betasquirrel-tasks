@@ -4,10 +4,8 @@ Assignments from betasquirrel
 
 ## output
 
-|output                           |
-|.................................|
-|![Task 1](images/task-1.png)     |
-|![Task 2](images/task-2.png)     |
+|![Task 1](images/task-1.png) |
+|![Task 2](images/task-2.png) |
 
 Read the below pages and attend the tests.
 
