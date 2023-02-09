@@ -6,9 +6,9 @@ Assignments from betasquirrel
 
 | Requirements |output|
 | |......|
-|![Task 1](images/task-1.webp)|
-|![Task 2](images/task-2.webp)|
-|![task 4]("images/task-4.png")|
+|![Task 1](images/task-1.png)|
+|![Task 2](images/task-2.png)|
+|![task 4](images/task-4.png)|
 Read the below pages and attend the tests.
 
 - [HTML](https://www.w3schools.com/w3css/defaulT.asp)
