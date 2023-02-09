@@ -4,8 +4,6 @@ Assignments from betasquirrel
 
 ## task 3
 
-| Requirements |output|
-| |......|
 |![Task 1](images/task-1.png)|
 |![Task 2](images/task-2.png)|
 |![task 4](images/task-4.png)|
