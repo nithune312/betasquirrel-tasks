@@ -16,7 +16,7 @@ Read the below pages and attend the tests.
 - [HTML ELEMENTS](https://www.w3schools.com/html/html_elements.asp)
 - [HTML ATTRIBUTES](https://www.w3schools.com/html/html_attributes.asp)
 - [HTML HEADINGS](https://www.w3schools.com/html/html_headings.asp)
-- [HTMLPARAGRAPHS](https://www.w3schools.com/html html_paragraphs.asp)
+- [HTMLPARAGRAPHS](https://www.w3schools.com/html/html_paragraphs.asp)
 - [HTML STYLES](https://www.w3schools.com/html/html_styles.asp)
 - [HTML FORMATTING](https://www.w3schools.com/html/html_formatting.asp)
 - [HTML QUOTATIONS](https://www.w3schools.com/html/html_quotation_elements.asp)
