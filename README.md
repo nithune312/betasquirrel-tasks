@@ -8,7 +8,7 @@ Assignments from betasquirrel
 | |......|
 |![Task 1](images/task-1.webp)|
 |![Task 2](images/task-2.webp)|
-|1[task 4]("images/task-4.png")|
+|![task 4]("images/task-4.png")|
 Read the below pages and attend the tests.
 
 - [HTML](https://www.w3schools.com/w3css/defaulT.asp)
@@ -18,7 +18,7 @@ Read the below pages and attend the tests.
 - [HTML ELEMENTS](https://www.w3schools.com/html/html_elements.asp)
 - [HTML ATTRIBUTES](https://www.w3schools.com/html/html_attributes.asp)
 - [HTML HEADINGS](https://www.w3schools.com/html/html_headings.asp)
-- [HTML PARAGRAPHS](https://www.w3schools.com/html html_paragraphs.asp)
+- [HTMLPARAGRAPHS](https://www.w3schools.com/html html_paragraphs.asp)
 - [HTML STYLES](https://www.w3schools.com/html/html_styles.asp)
 - [HTML FORMATTING](https://www.w3schools.com/html/html_formatting.asp)
 - [HTML QUOTATIONS](https://www.w3schools.com/html/html_quotation_elements.asp)
@@ -57,7 +57,7 @@ Task 5
 - [HTML Table padding and spacing](https://www.w3schools.com/html/html_table_padding_spacing.asp)
 - [HTML Table colspan and rowspan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
 - [HTML Table styling](https://www.w3schools.com/html/html_table_styling.asp)
-- s[HTML Table colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
+- [HTML Table colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
 
 my website
 
