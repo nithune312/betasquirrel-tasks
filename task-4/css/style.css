@@ -25,7 +25,6 @@ body {
   display: inline-block;
   color: white;
 }
-
 #profile-container {
   width: auto;
   float: right;
@@ -52,33 +51,26 @@ body {
   padding: 12px;
   margin-left: 10px;
 }
-
 .green-bg {
   background-color: #06ce83;
 }
-
 .purple-bg {
   background-color: #a25aff;
 }
-
 .red-bg {
   background-color: #f24e1d;
 }
-
 .cyan-bg {
   background-color: #1cbcfd;
 }
-
 #tile-container,
 #circle-container {
   display: flex;
   padding-left: 8px;
 }
-
 #tile-container {
   margin-bottom: 15px;
 }
-
 .tile {
   height: 130px;
   width: 231px;
@@ -89,12 +81,10 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-
 .tile h2,
 .tile h3 {
   color: white;
 }
-
 .circle,
 .chart {
   display: flex;
@@ -108,17 +98,14 @@ body {
   margin-right: 25px;
   border-radius: 70%;
 }
-
 #tile-container > div,
 #circle-container > div {
   margin-right: 15px;
 }
-
 #tile-container > div:last-child,
 #circle-container > div:last-child {
   margin-right: 0;
 }
-
 .inner-one {
   width: 80%;
   height: 80%;
@@ -127,12 +114,10 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 .inner-one h2,
 .inner-four h2 {
   color: #fff;
 }
-
 .inner-two {
   width: 110%;
   height: 160%;
@@ -142,11 +127,9 @@ body {
   align-items: center;
   background-color: #fff;
 }
-
 .inner-two h2 {
   color: #555;
 }
-
 .inner-three {
   width: 94%;
   height: 109%;
@@ -156,7 +139,6 @@ body {
   background-color: #ff7262;
   padding: 15px;
 }
-
 .inner-four {
   width: 67%;
   height: 64%;
@@ -165,60 +147,49 @@ body {
   border-radius: 100%;
   margin-top: 21px;
 }
-
 .bar {
   width: 20px;
   position: absolute;
   overflow: hidden;
 }
-
 .chart {
   position: relative;
   display: block;
 }
-
 .chart div {
   bottom: 0;
 }
-
 .one {
   left: 50px;
   height: calc(100% - 30px);
 }
-
 .two {
   left: 80px;
   height: calc(100% - 10px);
 }
-
 .three {
   left: 108px;
   height: calc(100% - 70px);
 }
-
 .four {
   left: 161px;
   height: 76px;
   margin-left: 47px;
 }
-
 .five {
   left: 173px;
   height: calc(100% - 10px);
 }
-
 .six {
   left: 137px;
   height: calc(100% - 50px);
 }
-
 .line {
   width: 92%;
   height: 5px;
   background-color: #625b5b;
   position: absolute;
 }
-
 .sidebar nav {
   display: flex;
   flex-direction: column;
@@ -226,16 +197,13 @@ body {
   padding: 5px;
   width: 80%;
 }
-
 .sidebar nav a {
   color: white;
   padding: 5px;
 }
-
 .sidebar nav a:first-child {
   padding-top: 0;
 }
-
 .sidebar nav a.active {
   color: #06ce83;
   text-decoration: none;
