@@ -2,11 +2,16 @@
 
 Assignments from betasquirrel
 
-## task 3
+## Coding-task
 
-|![Task 1](images/task-1.png)|
-|![Task 2](images/task-2.png)|
-|![task 4](images/task-4.png)|
+### Requirements
+
+| requirements                 | output                         |
+| ---------------------------- | ------------------------------ |
+| ![Task-1](images/task-1.png) | ![Task-1](images/output-1.png) |
+| ![Task-2](images/task-2.png) | ![Task-2](images/output-2.png) |
+| ![Task-4](images/task-4.png) | ![Task-4](images/output-4.png) |
+
 Read the below pages and attend the tests.
 
 - [HTML](https://www.w3schools.com/w3css/defaulT.asp)
@@ -32,18 +37,21 @@ Read the below pages and attend the tests.
 
 ## Linux commands
 
-- !cd! -Change current directory.Ex: 'cd desktop','cd ..'
-- !ls! -List contents of a directory. Ex: 'ls -a' list hidden files as well.
-- !pwd! -Display current working directory path
-- !cat! -Display contents of a file. Ex: 'cat README.md'
+- `cd` -Change current directory. Ex:`cd desktop`, `cd ..`
+- `ls` -List contents of a directory. Ex: `ls -a` list hidden files as well.
+- `pwd` -Display current working directory path
+- `cat` -Display contents of a file. Ex: `cat README.md`
+- `mkdir` -To creat one or more directories.
+- `clear` -To clear git bash.
+- `rm` -To remove file.
 
 ## GIT commands
 
-1. !git config! configure git user. Ex: !git config --global user.name! "nithune312", !git config user.email! 'nithune312@gmail.com'
-2. 'git clone' clone a remote git repo to your local.Ex: !git clone! https://github.com/nithune312/betasquirrel-tasks.git', 'git clone https://github.com/nithune312/betasquirrel-tasks new-folder'
-3. !git add! Add your file changes to git. Ex: !git add .!,for each or folder !git add filename! Eg: !git add README.md!
-4. !git commit! commit changes to git. Ex: !git commit -m "Initial commit"!
-5. !git push! Push your local commits to remote repo. Ex: !git push origin main!
+1. `git config` configure git user. Ex: `git config --global user.name "nithune312", git config user.email` `nithune312@gmail.com`
+2. `git clone` clone a remote git repo to your local. Ex: `git clone https://github.com/nithune312/betasquirrel-tasks.git`
+3. `git add` Add your file changes to git. Ex: `git add ..`
+4. `git commit` commit changes to git. Ex: `git commit -m "Initial commit"`
+5. `git push` Push your local commits to remote repo. Ex: `git push origin main`
 
 Task 5
 
