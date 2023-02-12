@@ -4,11 +4,14 @@ body {
 }
 #navbar {
   background-color: blue;
-  height: 115px;
+  height: 41px;
   margin-bottom: 21px;
 }
+.link--underline {
+  text-decoration: none;
+}
 #main-container {
-  background-color: maroon;
+  background-color: lightgray;
   height: 240px;
   margin-bottom: 15px;
 }
@@ -28,23 +31,23 @@ body {
 .child1 {
   width: 400px;
   height: 190px;
-  background-color: blueviolet;
+  background-color: #00803feb;
 }
 .child2 {
   width: 350px;
   height: 190px;
-  background-color: blueviolet;
+  background-color: #00803feb;
 }
 #box {
-  background-color: lightskyblue;
+  background-color: lightgray;
   height: 250px;
-  width: 1283px;
+  width: 1320px;
   margin-right: 8px;
   margin-left: 1px;
-  padding: 5px;
+  padding: 30px;
   margin-bottom: 3938px;
-  border: 5px solid yellow;
-  outline: 5px solid red;
+  border: 5px solid #00803feb;
+  outline: 9px solid maroon;
 }
 div {
   padding: 10px;
