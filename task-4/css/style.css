@@ -38,7 +38,7 @@ body {
 }
 .sidebar {
   background-color: #625c5c;
-  height: 100%;
+  height: 102%;
   width: 150px;
   float: left;
 }
@@ -66,14 +66,14 @@ body {
 #tile-container,
 #circle-container {
   display: flex;
-  padding-left: 8px;
+  padding-left: 47px;
 }
 #tile-container {
   margin-bottom: 15px;
 }
 .tile {
   height: 130px;
-  width: 231px;
+  width: 26%;
   float: left;
   margin-right: 19px;
   padding: 25px;
@@ -116,6 +116,7 @@ body {
 }
 .inner-one h2,
 .inner-four h2 {
+  margin: auto;
   color: #fff;
 }
 .inner-two {
@@ -131,8 +132,8 @@ body {
   color: #555;
 }
 .inner-three {
-  width: 94%;
-  height: 109%;
+  width: 70%;
+  height: 72%;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -145,7 +146,7 @@ body {
   display: flex;
   justify-content: center;
   border-radius: 100%;
-  margin-top: 21px;
+  margin-top: 39px;
 }
 .bar {
   width: 20px;
@@ -160,24 +161,24 @@ body {
   bottom: 0;
 }
 .one {
-  left: 50px;
+  left: 6px;
   height: calc(100% - 30px);
 }
 .two {
-  left: 80px;
+  left: 50px;
   height: calc(100% - 10px);
 }
 .three {
-  left: 108px;
+  left: 94px;
   height: calc(100% - 70px);
 }
 .four {
-  left: 161px;
+  left: 171px;
   height: 76px;
   margin-left: 47px;
 }
 .five {
-  left: 173px;
+  left: 177px;
   height: calc(100% - 10px);
 }
 .six {
@@ -185,7 +186,7 @@ body {
   height: calc(100% - 50px);
 }
 .line {
-  width: 92%;
+  width: 97%;
   height: 5px;
   background-color: #625b5b;
   position: absolute;
