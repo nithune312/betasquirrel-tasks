@@ -67,3 +67,24 @@ div {
 .right a {
   color: white;
 }
+@media screen and (max-width: 500px) {
+  #main container {
+    display: inline-block;
+    height: 500px;
+    width: fit-content;
+  }
+  .box1,
+  .box2 {
+    width: 80px;
+    margin: 7%;
+    float: left;
+  }
+  #navbar {
+    height: 100px;
+  }
+  .right {
+    float: left;
+    margin-top: 1%;
+    margin-left: 0px;
+  }
+}
