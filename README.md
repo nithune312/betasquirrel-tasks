@@ -49,9 +49,12 @@ Read the below pages and attend the tests.
 
 1. `git config` configure git user. Ex: `git config --global user.name "nithune312", git config user.email` `nithune312@gmail.com`
 2. `git clone` clone a remote git repo to your local. Ex: `git clone https://github.com/nithune312/betasquirrel-tasks.git`
-3. `git add` Add your file changes to git. Ex: `git add ..`
-4. `git commit` commit changes to git. Ex: `git commit -m "Initial commit"`
-5. `git push` Push your local commits to remote repo. Ex: `git push origin main`
+3. `git add`Add your file changes to git. Ex: `git add ..`
+4. `git commit`commit changes to git. Ex: `git commit -m "Initial commit"`
+5. `git push`Push your local commits to remote repo. Ex: `git push origin main`
+6. `git stash`takes your uncommitted changes,saves them away for later use,and then reverts them from working copy.
+7. `git pull`is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+8. `git diff`helps you see,compare,and understand changes in your project.
 
 Task 5
 
