@@ -68,23 +68,27 @@ div {
   color: white;
 }
 @media screen and (max-width: 500px) {
-  #main container {
+  #main-container {
     display: inline-block;
     height: 500px;
     width: fit-content;
+    flex-direction: column;
   }
-  .box1,
-  .box2 {
+  .box one,
+  .box two {
     width: 80px;
-    margin: 7%;
+    margin: 25%;
     float: left;
+  }
+  .box two {
+    margin-top: 10%;
   }
   #navbar {
     height: 100px;
   }
   .right {
     float: left;
-    margin-top: 1%;
+    margin-top: 10%;
     margin-left: 0px;
   }
 }
