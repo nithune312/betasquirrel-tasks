@@ -55,6 +55,8 @@ Read the below pages and attend the tests.
 6. `git stash`takes your uncommitted changes,saves them away for later use,and then reverts them from working copy.
 7. `git pull`is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 8. `git diff`helps you see,compare,and understand changes in your project.
+9. `git reset --hard`remove all changes
+10. `git log`see commit history
 
 Task 5
 
