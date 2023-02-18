@@ -59,6 +59,7 @@ div {
 }
 .lift img {
   height: 40px;
+  margin-right: 8px;
 }
 .left h2 {
   display: inline;
@@ -67,7 +68,7 @@ div {
 .right a {
   color: white;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 750px) {
   #main-container {
     display: inline-block;
     height: 500px;
@@ -93,8 +94,6 @@ div {
     height: 100px;
   }
   .right {
-    float: left;
-    margin-top: 10%;
-    margin-left: 0px;
+    display: none;
   }
 }
