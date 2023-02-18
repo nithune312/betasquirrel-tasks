@@ -80,8 +80,14 @@ div {
     margin: 25%;
     float: left;
   }
-  .box two {
-    margin-top: 10%;
+  .two {
+    margin-top: 10px;
+  }
+  .box {
+    background-color: #86df7e;
+    width: 91%;
+    float: left;
+    padding: 15px;
   }
   #navbar {
     height: 100px;
