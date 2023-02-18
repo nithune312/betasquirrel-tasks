@@ -64,6 +64,7 @@ div {
 .left h2 {
   display: inline;
   color: white;
+  margin-left: 10px;
 }
 .right a {
   color: white;
