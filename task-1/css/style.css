@@ -53,6 +53,7 @@ h2 {
 }
 .right a {
   color: white;
+  padding-right: 10px;
 }
 @media screen and (max-width: 750px) {
   .right a {
